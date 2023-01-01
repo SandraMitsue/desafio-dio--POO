@@ -1,5 +1,7 @@
 # desafio-dio--POO
-<!-- Desafio DIO Bootcamp GFT Abstraindo um Bootcamp:
+<!-- Desafio DIO Bootcamp GFT Abstraindo um Bootcamp
+
+JAVA. Neste desafio foi criado um projeto onde são desenvolvido os pilares da OO : Abstração, Encapsulamento, Herança e Polimorfismo:
 
 1. ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS, usando java e a IDE intellij
 2. Criar as CLASSES: Bootcamp, Cursos, Mentorias e Devs e relacionar-las
